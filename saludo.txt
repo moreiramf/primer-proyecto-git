@@ -1,2 +1,3 @@
 Hola, este es un saludo desde la rama feature/saludo-personalizado.
 
+Este es un segundo mensaje.
